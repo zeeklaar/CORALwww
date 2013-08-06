@@ -1,0 +1,56 @@
+#chartDisplay
+{
+	width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+
+	padding: 10px;
+}
+
+#chartTitle
+{
+	padding-bottom: 10px;
+	padding-top: 30px;
+
+	text-align: center;
+
+	font-size: 18pt;
+}
+
+#filters
+{
+	padding: 10px;
+
+	font-size: 14pt;
+}
+
+#filterTitle
+{
+	margin-top: 5px;
+	padding-right: 20px;
+
+	font-size: 16pt;
+
+	float: left;
+}
+
+.selectionDropdown
+{
+	padding: 10px;
+	padding-bottom: 20px;
+
+	display: inline-block;
+}
+
+.chart
+{
+	width: 800px;
+	height: 400px;
+
+	margin: auto;
+
+	padding: 10px;
+
+	float: left;
+	clear: right;
+}

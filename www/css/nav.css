@@ -1,0 +1,31 @@
+#title
+{
+	color: #000000;
+}
+
+#nav
+{
+	position: relative;
+
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+}
+
+.button
+{
+	width: 180px;
+
+	padding: 5px;
+	margin: 5px;
+
+	float: left;
+
+	background-color: #37B079;
+	border-radius: 3px;
+
+	font-size: 20px;
+	font-style: normal;
+}
